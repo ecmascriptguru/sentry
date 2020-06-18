@@ -102,14 +102,14 @@ exports[`ProjectPlugins renders 1`] = `
                     type="warning"
                   >
                     <Component
-                      className="e1cszazt0 css-1l2bl4n-Alert-PanelAlert ejthpj82"
+                      className="e1cszazt0 css-mm85k7-Alert-PanelAlert ejthpj82"
                       icon="icon-circle-exclamation"
                       iconSize="20px"
                       system={true}
                       type="warning"
                     >
                       <div
-                        className="ref-warning e1cszazt0 css-1l2bl4n-Alert-PanelAlert ejthpj82"
+                        className="ref-warning e1cszazt0 css-mm85k7-Alert-PanelAlert ejthpj82"
                       >
                         <IconWrapper>
                           <span
